@@ -17,12 +17,12 @@ Total time writing this is likely 40 hours, to write this had to learn basic app
 The following images are the login page(after inserting 4d already)
 <br />
 <p align="center">
-![image](https://github.com/user-attachments/assets/5fe7269c-14fc-4f8d-8d98-d4027829a50d)
+<img src="https://github.com/user-attachments/assets/5fe7269c-14fc-4f8d-8d98-d4027829a50d">
 </p>
 <br />
 And two images to show how it changes with time.
 <br />
 <p align="center">
-![image](https://github.com/user-attachments/assets/e8b53d9a-1b07-4300-9f26-24ccddcccfae)
-![image](https://github.com/user-attachments/assets/6691b0a9-1474-4254-8a9d-245cca70c7fb)
+<img src="https://github.com/user-attachments/assets/e8b53d9a-1b07-4300-9f26-24ccddcccfae">
+<img src="https://github.com/user-attachments/assets/6691b0a9-1474-4254-8a9d-245cca70c7fb">
 </p>
