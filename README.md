@@ -24,5 +24,6 @@ And two images to show how it changes with time.
 <br />
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e8b53d9a-1b07-4300-9f26-24ccddcccfae">
-<img src="https://github.com/user-attachments/assets/6691b0a9-1474-4254-8a9d-245cca70c7fb">
+<img src="https://github.com/user-attachments/assets/5589c301-7d95-436f-a382-5e32565ebf39">
+
 </p>
